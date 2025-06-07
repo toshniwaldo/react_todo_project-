@@ -26,7 +26,7 @@ function App() {
     }
     newtodo.push({
       id: ++count  , 
-      task : newTask,
+      task : newTas,k
       time : newTask
     })
 
